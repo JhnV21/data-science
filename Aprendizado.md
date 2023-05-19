@@ -1,5 +1,3 @@
-# Santander Coders 2023 - JhnV
-
 ## Git e Versionamento
 
 ### Comandos Git
@@ -17,3 +15,4 @@
 - Voltar arquivo de Staged para Changes: `git restore --staged NOME ARQUIVO` ou `git restore -s NOME ARQUIVO`
 - Saber o "remote": `git remote`
 - Enviar ao Repositório Remoto: `git push`, depois de push colocar o resultado de `git remote` e a branch que esta trabalhando.
+- Puxar coisas do Repositório Remoto: `git pull`, atualiza meu repositório local com as modificações feitas do repositório remoto.
