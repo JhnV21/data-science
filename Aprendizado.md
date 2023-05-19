@@ -20,3 +20,4 @@
 - Criar nova Branch: `git branch NOME BRANCH`
 - Saber a branch que esta: `git log --oneline --decorate`, olhar aonde HEAD esta apontando.
 - Mudar a branch: `git checkou NOME BRANCH`
+- Juntar os códigos de branch separadas: `git merge BRANCH QUE QUERO JUNTAR`
