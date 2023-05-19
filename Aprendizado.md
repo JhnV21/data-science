@@ -2,8 +2,6 @@
 
 ## Git e Versionamento
 
----
-
 ### Comandos Git
 
 - Nome de Usuário: `git config --global user.name "NOME"`
