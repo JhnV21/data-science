@@ -13,3 +13,4 @@
 - Status: `git status`, para saber o status dos arquivos.
 - Stage: `git add ARQUIVO`, para preparar o arquivo para commit.
 - Mudanças: `git diff`, para saber quais foram as mudanças no código.
+- Commit: `git commit -m "MENSAGEM"`
