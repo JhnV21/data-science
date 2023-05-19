@@ -17,3 +17,5 @@
 - Histórico: `git log` / pressionar a tecla "q" para sair do Git Log
 - Remover mudanças após git add: `git restore NOME ARQUIVO`
 - Voltar arquivo de Staged para Changes: `git restore --staged NOME ARQUIVO` ou `git restore -s NOME ARQUIVO`
+- Saber o "remote": `git remote`
+- Enviar ao Repositório Remoto: `git push`, depois de push colocar o resultado de `git remote` e a branch que esta trabalhando.
